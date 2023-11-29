@@ -1,3 +1,8 @@
+# Minesweeper Tutorial
+This is a repository which shows tutorial with building minesweeper.
+
+You can see `archives` folder for intermeidate states.
+
 # PixeLAW App template
 This is a heavily WIP attempt to allow creation of PixeLAW apps without managing the main "game" repo.
 
